@@ -94,7 +94,7 @@
           <div class="collapse navbar-collapse" id="navigation">
             <ul class="nav navbar-nav" style="background-color:red;">
               <li><a href="index.php">Home</a> </li>
-              <li><a href="car-listing.php">Available Cars</a>
+              <li><a href="car-listing.php">Available Rides</a>
 
               <li><a href="page.php?type=aboutus">About Us</a></li>
 
